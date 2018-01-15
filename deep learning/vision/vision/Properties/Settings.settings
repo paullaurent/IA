@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="vision.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FaceCascade" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cascade/haarcascade_frontalface_default.xml</Value>
+    </Setting>
+    <Setting Name="EyeCascade" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cascade/haarcascade_eye.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
